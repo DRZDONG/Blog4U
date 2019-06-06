@@ -1,6 +1,6 @@
 # Blog4U Blog App
 
-**Blog4U Blog App** is a web application developed with best applications of RESTful Routing using Node.JS, Express.JS, Embedded JavaScript (EJS), MongoDB and more. It is made while pursuing The Web Developer Bootcamp on Udemy. This 40+ hour course covers HTML, CSS, Javascript, Node, Express, MongoDB, Git, and a bunch of other smaller topics along the way.
+**Blog4U Blog App** is a web application developed with best applications of RESTful Routing using Node.JS, Express.JS, Embedded JavaScript (EJS) and more. It is made while pursuing [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course on [Udemy](https://www.udemy.com/). This 40+ hour course covers HTML, CSS, Javascript, Node, Express, MongoDB, Git, and a bunch of other smaller topics along the way.
 
 ### RESTful Routes:
 
